@@ -1,0 +1,9 @@
+### Intellij ###
+.idea
+target/
+
+### React ###
+node_modules
+src/main/resources/static/built/
+package-lock.json
+.vscode/
